@@ -1,0 +1,12 @@
+.jumbotron{
+  font-color: orange;
+}
+a.btn.btn-primary.btn-lg {
+    background-color: red;
+}
+input#formGroupExampleInput{
+  color:red;
+}
+input#formGroupExampleInput2{
+  color: red;
+}
